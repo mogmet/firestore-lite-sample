@@ -1,6 +1,8 @@
-# Nuxt 3 Minimal Starter
+# firestore lite検証サンプル
 
-Look at the [nuxt 3 documentation](https://v3.nuxtjs.org) to learn more.
+普通のやつとliteのやつでどれくらいパフォーマンス変わるかのチェックをしてみた。
+
+詳細は[qiitaの記事を参照](https://qiita.com/mogmet/items/10bd35aed9f9494e1c28)
 
 ## Setup
 
